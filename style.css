@@ -16,7 +16,7 @@ header {
 
 p{
     font-size: 1.5rem;
-    max-width: 50%;
+    max-width: 45%;
 }
 
 .primeira{
@@ -37,6 +37,8 @@ p{
     align-items: center;
     justify-content: space-around;
     margin-bottom: 2rem;
+    color: white;
+    text-align: center;
 }
 
 .segunda img{
