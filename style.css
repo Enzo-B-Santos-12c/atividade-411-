@@ -11,20 +11,46 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
+    color: white;
 }
 
 p{
-    font-size: 2rem;
+    font-size: 1.5rem;
+    max-width: 50%;
 }
 
-
-.div1 {
-    width: 30rem;
-    display: flex; 
-    align-items: flex-start;
-    justify-content: space-between;
+.primeira{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-block: 5rem;
 }
 
+.primeira img{
+    width: 40rem;
+}
 
+.segunda{
+    height: 30rem;
+    background-color: rgb(238, 64, 64);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 2rem;
+}
 
+.segunda img{
+    width: 20rem;
+    height: 20rem;
+}
+
+.terceira{
+    display: flex;
+    justify-content: center;
+}
+
+.terceira img{
+    width: 20rem;
+    height: 20rem;
+}
 
