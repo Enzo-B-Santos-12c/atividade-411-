@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Josefin Sans", sans-serif;
+}
+
+header {
+    background-color: rgb(230, 97, 97);
+    height: 8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p{
+    font-size: 2rem;
+}
+
+
+.div1 {
+    width: 30rem;
+    display: flex; 
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+
+
+
